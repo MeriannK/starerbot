@@ -1,1 +1,1 @@
-# starerbot
+# starterbot
